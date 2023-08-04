@@ -1,0 +1,21 @@
+<svg width="1270" height="1525" viewBox="0 0 1270 1525" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_246_20)">
+<g opacity="0.5" filter="url(#filter0_f_246_20)">
+<path d="M109.5 2084C639.969 2084 1070 1662.25 1070 1142C1070 621.748 639.969 200 109.5 200C-420.969 200 -851 621.748 -851 1142C-851 1662.25 -420.969 2084 109.5 2084Z" fill="url(#paint0_radial_246_20)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_246_20" x="-1051" y="0" width="2321" height="2284" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_246_20"/>
+</filter>
+<radialGradient id="paint0_radial_246_20" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(56.5193 1129.89) rotate(86.4781) scale(811.915 828.005)">
+<stop stop-color="#1EB767"/>
+<stop offset="1" stop-color="#17A7C1" stop-opacity="0.03"/>
+</radialGradient>
+<clipPath id="clip0_246_20">
+<rect width="1270" height="2284" fill="white"/>
+</clipPath>
+</defs>
+</svg>
