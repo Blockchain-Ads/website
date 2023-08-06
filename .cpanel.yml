@@ -2,7 +2,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/myheuqga/blockchain-ads-new.com
+    - export DEPLOYPATH=/home/myheuqga/blockchain-ads-new-theme.com
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R documentation $DEPLOYPATH
     - /bin/cp -R form $DEPLOYPATH
