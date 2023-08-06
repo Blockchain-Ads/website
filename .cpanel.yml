@@ -2,26 +2,26 @@
 ---
 deployment:
   tasks:
-    - export DEPLOY PATH=/home/myheuqga/blockchain-ads-new.com
-    - /bin/cp -R assets DEPLOY PATH
-    - /bin/cp -R documentation DEPLOY PATH
-    - /bin/cp -R form DEPLOY PATH
-    - /bin/cp -R images DEPLOY PATH
-    - /bin/cp -R web3-cookie DEPLOY PATH
-    - /bin/cp .gitignore DEPLOY PATH
-    - /bin/cp .cpanel.yml DEPLOY PATH
-    - /bin/cp ad-network.html DEPLOY PATH
-    - /bin/cp ad-network2.html DEPLOY PATH
-    - /bin/cp advertise.html DEPLOY PATH
-    - /bin/cp analytics.html DEPLOY PATH
-    - /bin/cp blog-details.html DEPLOY PATH
-    - /bin/cp blog.html DEPLOY PATH
-    - /bin/cp full-funnel-analytics.html DEPLOY PATH
-    - /bin/cp index.html DEPLOY PATH
-    - /bin/cp index2.html DEPLOY PATH
-    - /bin/cp readme.md DEPLOY PATH
-    - /bin/cp roadmap.html DEPLOY PATH
-    - /bin/cp web3cookie.html DEPLOY PATH
+    - export DEPLOYPATH=/home/myheuqga/blockchain-ads-new.com/
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R documentation $DEPLOYPATH
+    - /bin/cp -R form $DEPLOYPATH
+    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R web3-cookie $DEPLOYPATH
+    - /bin/cp .gitignore $DEPLOYPATH
+    - /bin/cp .cpanel.yml $DEPLOYPATH
+    - /bin/cp ad-network.html $DEPLOYPATH
+    - /bin/cp ad-network2.html $DEPLOYPATH
+    - /bin/cp advertise.html $DEPLOYPATH
+    - /bin/cp analytics.html $DEPLOYPATH
+    - /bin/cp blog-details.html $DEPLOYPATH
+    - /bin/cp blog.html $DEPLOYPATH
+    - /bin/cp full-funnel-analytics.html $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp index2.html $DEPLOYPATH
+    - /bin/cp readme.md $DEPLOYPATH
+    - /bin/cp roadmap.html $DEPLOYPATH
+    - /bin/cp web3cookie.html $DEPLOYPATH
 
 
 
