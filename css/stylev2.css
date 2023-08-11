@@ -5528,7 +5528,7 @@ body .btn-twentySix:hover:after {
     font-size: 22px;
     position: absolute;
     left: 25px;
-    top: 28px;
+    top: 20px;
     color: #ff4595;
     transition: 0.3s ease-in-out;
 }
@@ -9543,7 +9543,50 @@ transition: 0.3s ease-in-out;
     max-width: 1230px !important;
   }
 
+  .people-target .social-icon img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 50%;
+    transition: 0.3s ease-in-out;
+  }
+  .col-lg-20 {
+    flex: 0 0 auto;
+    width: 20%;
+  }
+  
+  .card-style-twelve1::before {
+     border: none;
+  }
+  .case-study-img-bg {
+    background-color: #000;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .blog-meta-five1 {
+    padding: 30px 40px 30px 40px;
+  }
+  .case-study-number {
+    line-height: 40px;
+    background: linear-gradient(270.78deg, #ffa7a9 4.19%, #ff5ea3 96.11%);
+  background-clip: border-box;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  }
+  .partner_slider_one .item img {
+    background-color: #23c4af33;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .fs-10 {
+    font-size: 10px !important;
+  }
+  .fs-6 {
+    font-size: 7px !important;
+  }
+  
 
+  
 
 
 
@@ -9716,6 +9759,15 @@ transition: 0.3s ease-in-out;
       }
       .hide-on-mobile {
         display: none !important;
+      }
+      .col-lg-20 {
+        width: 100%;
+      }
+      .mobile-mt-100 {
+        margin-top: 100px !important;
+      }
+      .mobile-small-title {
+        margin-bottom: 0px;
       }
 
     
